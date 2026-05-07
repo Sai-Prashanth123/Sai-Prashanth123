@@ -31,7 +31,7 @@ class SaiPrashanth:
 
 ## Experience
 
-**AI/ML Engineer Intern** · *Cluco Inc.* `Jan 2026 – Mar 2026`
+**Full Stack AI/ML Intern** · *Cluco Inc.* `Jan 2026 – Present`
 > Built hybrid RAG pipelines (vector + BM25 + re-ranking) · Improved retrieval precision **68% → 84%**, recall **72% → 88%** · Deployed FastAPI-based AI services end-to-end
 
 **AI Developer** · *Job Spring* `Jan 2025 – Jun 2025`
