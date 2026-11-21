@@ -94,6 +94,25 @@ class SaiPrashanth:
 | [Voice to LinkedIn](https://github.com/Sai-Prashanth123/voice-to-LinkedIn-) | Turns spoken work stories into LinkedIn drafts with quality gates and human approval | Claude |
 | [WhatsApp Plant-Care Assistant (demo)](https://sai-prashanth123.github.io/sai-plant-assistant-demo/) | Clickable prototype of an after-delivery WhatsApp assistant with a team dashboard | HTML, JS, GitHub Pages |
 
+### ✍️ Content Agents (X & LinkedIn)
+
+| Project | What it does | Stack |
+|---|---|---|
+| Content Intelligence Agent | Multi-client ghostwriting system for X and LinkedIn: per-client voice skills, Notion memory, a scheduled pipeline and a source check on every number | Claude Code skills, Python, Notion, Supabase |
+| Agency Agent Fleet | One isolated AI agent per client plus an agency agent that learns across clients, with daily Telegram digests and weekly Slack/Notion reports | Hermes Agent, MCP, Supabase |
+| Strategy Watcher | Every morning finds posts that beat each tracked account's normal (50+ accounts) and turns them into reusable content formulas in Slack | Python, Claude, GitHub Actions |
+| X / LinkedIn Data Platform | Scraping and daily-reporting platform with a job queue, a React console and ~1,400 tests | FastAPI, Postgres, Redis/arq, React |
+| X Algorithm Audit | Explains an account's reach from X's open-source ranking code, its own history and peers, with every finding cited | Python, data analysis |
+
+### 📈 GTM & Outbound Agents
+
+| Project | What it does | Stack |
+|---|---|---|
+| GTM Brain | A founder's daily outbound agent: finds accounts with buying signals, decides who is worth a message and why now, finds a verified contact, drafts and fact-checks openers, handles follow-ups and replies | TypeScript, Claude, MCP |
+| GTM Autopilot | Turns buying signals (Max) into per-lead email + LinkedIn sequences in Overloop, with a copy linter and send-locked-by-default safety | TypeScript, MCP, Vitest |
+| SignalLoop | Merges signals and 450M+ contacts, scores leads 0–100 with a why-now brief, and routes drafts to a human approval inbox | Next.js, MCP |
+| ReachPilot | AI SDR for HeyReach LinkedIn agencies: answers replies, books meetings, briefs reps before calls | OpenAI agents, HeyReach |
+
 ### 🧩 Full-Stack & SaaS
 
 | Project | What it does | Stack |
